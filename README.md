@@ -6,7 +6,7 @@ There are many things I would change, but it is what it is. Peppered throughout 
 I tried to comment and write clean code where I could.
 
 ## Blog post about the process:
-Coming soon!
+http://elliotkg.com/FizzBuzz.html
 
 ## Check it out on the app store:
-Coming soon, but not as soon as the blog post!
+https://itunes.apple.com/us/app/fizz-buzz-the-game/id1435805762?mt=8
